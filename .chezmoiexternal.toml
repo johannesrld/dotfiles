@@ -1,0 +1,19 @@
+[".config/mpv/scripts/modernx.lua"]
+type = "file"
+url = "https://raw.githubusercontent.com/subframe7536/ModernX/main/modernx.lua"
+refreshPeriod = "672h"
+
+
+[".config/mpv/scripts/thumbfast.lua"]
+type = "file"
+url = "https://raw.githubusercontent.com/l-jared/thumbfast/master/thumbfast.lua"
+refreshPeriod = "672h"
+
+[".config/mpv/script-opts/thumbfast.conf"]
+type = "file"
+url = "https://raw.githubusercontent.com/l-jared/thumbfast/master/thumbfast.conf"
+refreshPeriod = "672h"
+
+[".config/nvim"]
+type = "git-repo"
+url = "https://github.com/johannesrld/nvim"
