@@ -1,0 +1,953 @@
+cd projects/fast-syntax-highlighting
+clear
+git switch main
+md ~/.local/share/zsh/plugins/
+mkdir ~/.local/share/zsh/plugins/
+mkdir --help
+man mkdir
+mkdir -p ~/.local/share/zsh/plugins/
+git clone https://github.com/z-shell/F-Sy-H ~/.local/share/zsh/plugins
+vim ~/.config/zsh/.zshrc
+vim ~/.config/zsh/.zshrc
+~/.local/share/zsh/plugins/F-Sy-H.plugin.zsh
+~/.local/share/zsh/plugins/
+ls
+./F-Sy-H.plugin.zsh
+chmod +x ./F-Sy-H.plugin.zsh
+source ./F-Sy-H.plugin.zsh
+source ~/.local/share/zsh/plugins/F-Sy-H.plugin.zsh
+clear
+vim
+docker
+git
+clear
+ls -a
+rm .zshenv
+touch ~/.zshenv
+vim ~/.zshenv
+nvim ~/.config/zsh/.zshrc
+vim ~/.config/zsh/.zshrc
+vim ~/.config/zsh/.zshenv
+clear
+rvim
+vim
+chezmoi
+ls ~/.config/
+cd ~/.local/share/chezmoi/
+ls
+printenv
+vim ~/.config/zsh/.zshenv
+vim ~/.config/zsh/.zshrc
+vim ~/.config/zsh/.zshrc
+vim ~/.config/starship.toml
+sh 
+vim <<< "test"
+echo "testing" | vim /dev/stdin
+cleear
+c
+exit
+vim <(<<<"TEST")
+vim <(<<<"TEST")
+<<< "TEST"
+vim <(<<<"TEST")
+let=(1 2 3 4)
+sh
+ls 
+ls -a
+ls -h
+ls --help
+ls --help | grep folder
+ls --help | grep direc
+ls --group-directories-first
+ls -a --group-directories-first
+cd ~/.config
+ls
+cd nvim
+ls
+cd ~/.local/bin
+wget https://github.com/neovim/neovim/releases/download/stable/nvim-linux64.tar.gz
+tldr
+snap install tldr
+sudo snap install tldr
+tldr
+tldr
+sudo apt install tldr
+tldr tar
+tldr
+tldr -u
+tldr tar
+ls 
+tar xvf nvim-linux64.tar.gz
+ls
+cd nvim-linux64
+ls
+cd bin
+l
+ls
+nvim
+./nvim
+./nvim
+./nvim ~/.config/nvim/init.lua
+sudo apt install build-essential
+./nvim ~/.config/nvim/init.lua
+./nvim ~/.config/nvim/init.lua
+sudo apt install cargo
+./nvim ~/.config/nvim/init.lua
+sudo apt intsall npm
+sudo apt intsall node
+sudo apt intsall nodeks
+sudo apt intsall nodejs
+sudo apt intstall npms
+sudo apt install npm
+sudo apt install node
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.5/install.sh | bash
+ls
+ls ~
+ls -a ~
+rm -rf ~/.nvm
+NVM_DIR=~/.local/share/nvm curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.5/install.sh | bash
+ls ~
+ls -a ~
+./nvim ~/.config/zsh/.zshrc
+source ~/.config/zsh/.zshrc
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.5/install.sh | bash
+rm -rf ~/.nvm
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.5/install.sh | bash
+./nvim ~/.bashrc
+echo $NVM_DIR
+./nvim ~/.config/zsh/.zshrc
+source ~/.config/zsh/.zshrc
+echo $NVM_DIR
+./nvim ~/.config/zsh/.zshrc
+source ~/.config/zsh/.zshrc
+echo $NVM_DIR
+source ~/.config/zsh/.zshrc
+./nvim ~/.config/zsh/.zshrc
+source ~/.config/zsh/.zshrc
+echo $NVM_DIR
+./nvim ~/.config/zsh/.zshrc
+source ~/.config/zsh/.zshrc
+echo $NVM_DIR
+./nvim ~/.config/zsh/.zshrc
+source ~/.config/zsh/.zshrc
+./nvim ~/.config/zsh/.zshrc
+source ~/.config/zsh/.zshrc
+./nvim ~/.config/zsh/.zshrc
+source ~/.config/zsh/.zshrc
+./nvim ~/.config/zsh/.zshenv
+source ~/.config/zsh/.zshenv
+source ~/.profile
+./nvim ~/.profile
+source ~/.config/zsh/.zshrc
+echo $NVM_DIR
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.5/install.sh | bash
+./nvim ~/.config/zsh/.zshenv
+source ~/.config/zsh/.zshenv
+source ~/.config/zsh/.zshrc
+rm -rf ~/.nvm
+rm -rf ~/.config/nvm
+$NVM_DIR
+vim ~/.config/zsh/.zshrc
+vim ~/.config/zsh/.zshenv
+$NVM_DIR
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.5/install.sh | bash
+mkdir ~/.config/nvm
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.5/install.sh | bash
+vim ~/.config/zsh/.zshrc
+source ~/.config/zsh/.zshrc
+cd ~/.local/bin/nvim-linux64
+ls
+bin
+./nvim
+nvm
+nvm install latest
+nvm ls-remote
+clear
+nvm ls-remote
+nvm
+nvm install --latest-npm
+./nvim
+sudo apt install ripgrep
+./nvim
+./nvim
+./nvim ~/.config/nvim/
+./nvim ~/.config/nvim/
+./nvim ~/.config/nvim/lua/tau/theme/line.lua
+./nvim ~/.config/nvim/lua/tau/theme/line.lua
+./nvim ~/.config/nvim/lua/tau/theme/line.lua
+./nvim ~/.config/nvim/lua/tau/masonry/plugins/theme.lua
+./nvim ~/.config/nvim/lua/tau/masonry/plugins/other.lua
+./nvim ~/.config/nvim/lua/tau/masonry/plugins/in
+./nvim ~/.config/nvim/lua/tau/masonry/init.lua
+./nvim ~/.config/nvim/lua/tau/keymap.lua
+./nvim ~/.config/nvim/lua/tau/keymap.lua
+./nvim ~/.config/nvim/init.lua
+./nvim ~/.config/nvim/init.lua
+./nvim ~/.config/nvim/lua/tau/options.lua
+./nvim ~/.config/nvim/lua/tau/plugins.lua
+./nvim ~/.config/nvim/lua/tau/plugins.lua
+./nvim ~/.config/nvim/lua/tau/plugins.lua
+./nvim ~/.config/nvim/lua/tau/plugins.lua
+./nvim ~/.config/nvim/lua/tau/plugins.lua
+./nvim ~/.config/nvim/lua/tau/plugins.lua
+./nvim ~/.config/nvim/init.lua
+./nvim ~/.config/nvim/lua/tau/masonry/plugins/theme.lua
+./nvim ~/.config/nvim/lua/tau/masonry/plugins/theme.lua
+./nvim ~/.config/nvim/lua/tau/masonry/plugins/theme.lua
+touch test.js
+./nvim test.js
+./nvim test.js
+npm -g install tsserver
+./nvim test.js
+./nvim test.js
+./nvim ~/.config/nvim/lua/tau/masonry/plugins/theme.lua
+./nvim ~/.config/nvim/lua/tau/masonry/plugins/theme.lua
+./nvim ~/.config/nvim/lua/tau/masonry/plugins/theme.lua
+./nvim ~/.config/nvim/lua/tau/masonry/plugins/theme.lua
+./nvim ~/.config/nvim/lua/tau/masonry/plugins/theme.lua
+./nvim test.js
+./nvim ~/.config/nvim/lua/tau/masonry/plugins/theme.lua
+./nvim test.js
+./nvim test.js
+./nvim
+./nvim test.js
+./nvim test.js
+./nvim test.js
+touch test.py
+./nvim test.py
+tldr ln
+ln -sf ./nvim ~/.local/bin/nvim
+nvim
+./nvim ~/.config/zsh/.zshenv
+source ~/.config/zsh/.zshenv
+git_dirs
+nvim
+find -L -xtype l
+find -L -xtype l
+cd ~ && find -L -xtype l
+find -L -xtype l
+nvim
+readlink -f $(which nvim)
+tldr ln
+ln -sf ~/.local/bin/nvim ~/.local/bin/nvim-linux64/bin/nvim
+nvim
+rm ~/.local/bin/nvim
+ln -s ~/.local/bin/nvim-linux64/bin/nvim ~/.local/bin/nvim
+nvim
+ls ~/.local/bin
+~/.local/bin/nvim
+rm ~/.local/bin/nvim
+cd ~/.local/bin
+ls
+rm nvim-linux64
+rm nvim-linux64.tar.gz
+tldr tar
+ls
+ln -s ./nvim-linux64/bin/nvim ./nvim
+./nvim
+~/.local/bin
+ls
+ls -a
+exa
+cargo install exa
+ls -l
+./nvim-linux64/bin/nvim
+rm ./nvim*
+rm -rf ./nvim*
+ls
+curl -sL https://github.com/neovim/neovim/releases/download/stable/nvim-linux64.tar.gz
+ls
+ls -a
+tldr tar
+curl -sL https://github.com/neovim/neovim/releases/download/stable/nvim-linux64.tar.gz | tar xzvf
+curl -sL https://github.com/neovim/neovim/releases/download/stable/nvim-linux64.tar.gz | tar xzv
+ls
+ln -s ./nvim-linux64/bin/nvim ./nvim
+./nvim
+cd ~
+nvim
+npm
+nvm
+ls 
+ls -a
+nvim ~/.config/zsh/.zshrc
+nvim ~/.config/zsh/.zshrc
+ls ~/.config
+nvm use latest
+nvm use 
+nvm use 21.1.0
+nvm use 21
+nvim ~/.config/nvim/
+nvim ~/.config/nvim/
+nvim ~/.config/nvim/
+cd ~/.config/nvim/
+ls
+rm after/ftplugin/rust.lua
+rm after/ftplugin/ruby.lua
+rm after/ftplugin/haskell.lua
+ls after/ftplugin
+rm after/ftplugin/cs.lua
+ls
+cd lua
+ls
+cd tau
+ls
+nvim keymap.lua
+nvim options.lua
+nvim plugins.lua
+nvim plugins.lua
+nvim
+nvim .
+nvim .
+nvim .
+rm ./theme/colourscheme.lua
+rm ./theme/line.lua
+cd ..
+cd ..
+nvim init.lua
+nvim lua/tau/options.lua
+nvim lua/tau/term-conf.lua
+nvim lua/tau/term-conf.lua
+rm lua/tau/term-conf.lua
+nvim lua/tau/term-conf.lua
+nvim init.lua
+nvim init.lua
+nvim lua/tau/plugins.lua
+nvim lua/tau/masonry/plugins/theme.lua
+nvim lua/tau/masonry/plugins/theme.lua
+nvim lua/tau/masonry/plugins/theme.lua
+nvim lua/tau/masonry/plugins/theme.lua
+nvim lua/tau/masonry/plugins/theme.lua
+cd ~/.config/nvim
+cd ..
+nvim starship.toml
+nvm use 21.0.0
+nvim starship.toml
+nvim ~/.config/nvim/after/ftplugin/toml.lua
+rm nvim ~/.config/nvim/after/ftplugin/toml.lua
+rm nvim ~/.config/nvim/after/ftplugin/toml.lua
+nvim ~/.config/nvim/after/ftplugin/toml.lua
+rm ~/.config/nvim/after/ftplugin/toml.lua
+nvim ~/.config/nvim/after/ftplugin/toml.lua
+rm ~/.config/nvim/after/ftplugin/toml.lua
+nvim starship.toml
+nvim starship.toml
+cd nvim
+nvim .config/starship.toml
+nvim .config/starship.toml
+nvm
+nvm | rg use
+nvm alias default node
+nvm use node
+clear
+nvim .config/starship.toml
+nvim .config/nvim/lua/tau/masonry/plugins/theme.lua
+nvim .config/nvim/lua/tau/masonry/plugins/theme.lua
+nvim .config/nvim/lua/tau/masonry/plugins/git.lua
+nvim .config/nvim/lua/tau/masonry/plugins/git.lua
+nvim .config/nvim/lua/tau/masonry/plugins/lsp.lua
+nvim .config/nvim/lua/tau/masonry/plugins/other.lua
+nvim .config/nvim/lua/tau/masonry/plugins/other.lua
+nvim .config/nvim/lua/tau/masonry/plugins/lsp.lua
+nvim .config/nvim/lua/tau/masonry/plugins/lsp.lua
+nvim .config/nvim/lua/tau/masonry/plugins/lsp.lua
+nvim .config/nvim/lua/tau/masonry/plugins/lsp.lua
+cd ~/.config/nvim
+gitui
+nvim .
+ssh playground@demo.lnav.org/
+ssh playground@demo.lnav.org
+ls -a 
+clear
+ls -a
+rm .lesshst .gitconfig
+rm .ssh
+rm -rf .ssh
+ls
+ls -a
+ls -a
+~/.config/nvim
+c
+clear
+git status
+nvim ./
+nvim ./
+nvim ./
+nvim ./
+nvim ./
+git satus
+status
+git status
+git add .
+git commit -m "delete bullshit"
+git push origin main
+c
+clear
+nvim ./
+cat after/ftplugin/ocaml.lua
+rm after/ftplugin/ocaml.lua
+nvim 
+nvim .
+nvim ./lua/tau/keymap.lua
+nvim ./lua/tau/keymap.lua
+nvim ./lua/tau/keymap.lua
+nvim ./lua/tau/keymap.lua
+nvim ./lua/tau/keymap.lua
+nvim ./lua/tau/keymap.lua
+nvim ./lua/tau/keymap.lua
+nvim ./lua/tau/keymap.lua
+nvim ./lua/tau/options.lua
+nvim ./lua/tau/plugins.lua
+nvim ./lua/tau/masonry/init.lua
+nvim ./lua/tau/masonry/init.lua
+nvim ./lua/tau/masonry/init.lua
+~/.config/nvim
+nvim .
+nvim .
+nvim .
+nvim .
+nvim .
+nvim .
+nvim .
+nvim .
+nvim .
+nvim .
+nvim .
+nvim .
+gzip
+unzip
+nvim init.lua
+sudo apt install unzip
+nvim init.lua
+nvim init.lua
+nvim init.lua
+nvim 
+nvim .
+nvim ./lua/tau/masonry/init.lua
+nvim ./lua/tau/masonry/init.lua
+nvim ./lua/tau/masonry/init.lua
+nvim ./lua/tau/masonry/init.lua
+nvim ./lua/tau/plugins.lua
+nvim ./lua/tau/plugins.lua
+nvim ./lua/tau/plugins.lua
+nvim ./lua/tau/masonry/plugins/lsp.lua
+nvim ./lua/tau/masonry/plugins/other.lua
+nvim ./lua/tau/masonry/plugins/other.lua
+nvim ./lua/tau/masonry/plugins/other.lua
+nvim ./lua/tau/masonry/plugins/other.lua
+nvim ./lua/tau/masonry/plugins/other.lua
+nvim ./lua/tau/masonry/plugins/other.lua
+nvim ./lua/tau/masonry/plugins/other.lua
+nvim ./lua/tau/masonry/plugins/other.lua
+nvim ./lua/tau/masonry/plugins/other.lua
+nvim ./lua/tau/masonry/plugins/other.lua
+cat after/ftplugin/python.lua
+rm after/ftplugin/python.lua
+ls
+git status
+git add .
+git commit -m "remove python dap"
+git push origin main
+clear
+tree
+sudo apt install tree
+tree .
+nvim .
+rm after/
+rm -rf after/
+git add .
+git status
+git commit -m "remove empty stuff"
+git push origin main
+ls
+nvim
+sudo apt search luarocks
+wget https://luarocks.org/releases/luarocks-3.9.2.tar.gz
+tar zxpf luarocks-3.9.2.tar.gz
+cd luarocks-3.9.2
+./configure && make && sudo make install
+apt search lua
+apt search luajit
+clear
+apt search luajit
+sudo apt install luajit
+lua
+./configure && make && sudo make install
+luajit
+clear
+./configure && make && sudo make install
+apt search luajit
+sudo apt install libluajit-5.1-dev
+./configure && make && sudo make install
+sudo luarocks install luasocket
+lua
+luajit
+luajit
+cd ..
+rm -rf luarocks-3.9.2
+sudo rm -rf luarocks-3.9.2/
+ls
+luarocks
+luarocks install tl
+sudo luarocks install tl
+sudo luarocks install fennel
+fennel
+fennel
+git clone --depth=1 https://git.sr.ht/~technomancy/fnlfmt
+cd fnlfmt
+sudo make install in /usr/local
+sudo make install
+sudo make install
+./fnlfmt
+chmod +x ./fnlfmt
+sudo chmod +x ./fnlfmt
+./fnlfmt
+luarocks search lua
+clear
+sudo apt install lua5.4
+./fnlfmt
+touch test.fnl
+nvim test.fnl
+ls
+nvim test.fnl
+nvim test.fnl
+touch test.lisp
+nvim test.lisp
+mv test.lisp test.fnl
+nvim test.fnl
+nvim test.fnl
+nvim test.fnl
+fennel test.fnl
+nvim test.fnl
+fennel test.fnl
+nvim test.fnl
+nvim test.fnl
+touch test.js
+nvim test.js
+nvim test.js
+nvim test.js
+nvim test.fnl
+./fnlfmt test.fnl
+nvim test.fnl
+./fnlfmt test.fnl
+nvim test.fnl
+./fnlfmt test.fnl
+nvim test.fnl
+nvim ~/.config/nvim/init.lua
+nvim ~/.config/nvim/init.lua
+nvim ~/.config/nvim/lua/tau/theme/highlights.lua
+nvim ~/.config/nvim/lua/tau/options.lua
+nvim ~/.config/nvim/init.lua
+nvim ~/.config/nvim/lua/tau/plugins.lua
+nvim ~/.config/nvim/init.lua
+nvim test.fnl
+nvim test.fnl
+nvim test.fnl
+./fnlfmt
+./fnlfmt --help
+nvim ./fnlfmt
+ls
+make
+apt search fnlfmt
+snap 
+snap install fntfmt
+make install
+sudo make install
+/usr/local/bin/fnlfmt
+sudo chmod +x /usr/local/bin/fnlfmt
+/usr/local/bin/fnlfmt
+nvim /usr/local/bin/fnlfmt
+cd ..
+rm -rf ./fnlfmt
+nvim ~/.config/nvim/lua/tau/masonry/plugins/theme.lua
+nvim ~/.config/nvim/lua/tau/masonry/plugins/lsp.lua
+nvim ~/.config/nvim/lua/tau/masonry/plugins/git.lua
+nvim ~/.config/nvim/lua/tau/masonry/plugins/git.lua
+nvim ~/.config/nvim/lua/tau/masonry/plugins/other.lua
+touch test.fnl
+nvim test.fnl
+fennel test.fnl
+fennel test.fnl
+fennel test.fnl
+nvim test.fnl
+nvim ~/.config/nvim/lua/tau/masonry/plugins/other.lua
+nvim test.fnl
+nvim ~/.config/nvim/lua/tau/masonry/plugins/other.lua
+nvim test.fnl
+nvim ~/.config/nvim/lua/tau/masonry/plugins/other.lua
+nvim test.fnl
+nvim ~/.config/nvim/lua/tau/masonry/plugins/other.lua
+nvim test.fnl
+cd ~/.local/share/nvim/lazy/parinfer-rust
+ls
+cargo build --release
+cd ~
+ls
+nvim test.fnl
+nvim test.fnl
+nvim ~/.config/nvim/lua/tau/masonry/plugins/other.lua
+nvim test.fnl
+nvim test.fnl
+nvim test.fnl
+nvim ~/.config/nvim/lua/tau/masonry/plugins/other.lua
+nvim test.fnl
+fennel test.fnl
+nvim test.fnl
+fennel test.fnl
+nvim test.fnl
+nvim test.fnl
+fennel
+fennel --help
+fennel --compile ./test.fnl
+nvim test.fnl
+fennel --compile ./test.fnl
+nvim test.fnl
+fennel --compile ./test.fnl
+nvim test.fnl
+fennel --compile ./test.fnl
+fennel --compile ./test.fnl
+nvim test.fnl
+fennel --compile ./test.fnl
+nvim test.fnl
+fennel --compile ./test.fnl
+nvim test.fnl
+fennel --compile ./test.fnl
+nvim test.fnl
+fennel --compile ./test.fnl
+nvim test.fnl
+fennel --compile ./test.fnl
+nvim test.fnl
+fennel --compile ./test.fnl
+nvim test.fnl
+fennel --compile ./test.fnl
+nvim test.fnl
+fennel --compile ./test.fnl
+nvim test.fnl
+fennel --compile ./test.fnl
+nvim test.fnl
+fennel --compile ./test.fnl
+nvim test.fnl
+fennel --compile ./test.fnl
+nvim test.fnl
+fennel --compile ./test.fnl
+nvim test.fnl
+fennel --compile ./test.fnl
+clear
+fennel --compile ./test.fnl >> tesr.lua
+nvim tesr.lua
+fennel --compile ./test.fnl
+nvim test.fnl
+nvim test.fnl
+clear
+nvim test.fnl
+nvim test.fnl
+fennel --compile ./test.fnl
+nvim test.fnl
+c
+clear
+nvim test.fnl
+nvim test.fnl
+nvim test.fnl
+nvim test.fnl
+fennel --compile ./test.fnl
+fennel --compile ./test.fnl | wc -l
+(fennel --compile ./test.fnl | wc -l)
+echo "lua:" (fennel --compile ./test.fnl | wc -l
+echo "lua:" (fennel --compile ./test.fnl | wc -l)
+echo 'lua: <(fennel --compile ./test.fnl | wc -l)'
+echo lua: <(fennel --compile ./test.fnl | wc -l)
+echo lua: (fennel --compile ./test.fnl | wc -l)
+echo lua: $(fennel --compile ./test.fnl | wc -l)
+echo "lua: $(fennel --compile ./test.fnl | wc -l)\n"
+echo "lua: $(fennel --compile ./test.fnl | wc -l)\nfennel: $(cat ./test.fnl | wc -l)"
+nvim ./test.fnl
+curl https://raw.githubusercontent.com/johannesrld/omw-state-based-health/main/src/scripts/tau/state-based-health/player.lua
+echo "lua: $(curl https://raw.githubusercontent.com/johannesrld/omw-state-based-health/main/src/scripts/tau/state-based-health/player.lua | wc -l)\nfennel: $(cat ./test.fnl | wc -l)"
+echo "lua: $(curl --silent https://raw.githubusercontent.com/johannesrld/omw-state-based-health/main/src/scripts/tau/state-based-health/player.lua | wc -l)\nfennel: $(cat ./test.fnl | wc -l)"
+clear
+echo "lua: $(curl --silent https://raw.githubusercontent.com/johannesrld/omw-state-based-health/main/src/scripts/tau/state-based-health/player.lua | wc -l)\nfennel: $(cat ./test.fnl | wc -l)"
+echo "lua: $(curl --silent https://raw.githubusercontent.com/johannesrld/omw-state-based-health/main/src/scripts/tau/state-based-health/player.lua | wc -l)\nfennel: $(cat ./test.fnl | wc -l)"
+nvim ./test.fnl
+which make
+git clone https://git.sr.ht/~technomancy/fnlfmt
+cd fnlfmt
+cd fnlfmt
+ls
+nvim fnlfmt.fnl
+make install
+sudo rm /usr/local/bin/fnlfmt
+cd ..
+rm -rf fnlfmt
+git clone https://git.sr.ht/~technomancy/fnlfmt
+cd fnlfmt
+sudo make install
+fnlfmt
+cd ..
+ls
+fnlfmt --fix test.fnl
+nvim test.fnl
+echo "lua: $(curl --silent https://raw.githubusercontent.com/johannesrld/omw-state-based-health/main/src/scripts/tau/state-based-health/player.lua | wc -l)\nfennel: $(cat ./test.fnl | wc -l)"
+nvim test.fnl
+echo "lua: $(curl --silent https://raw.githubusercontent.com/johannesrld/omw-state-based-health/main/src/scripts/tau/state-based-health/player.lua | wc -l)\nfennel: $(cat ./test.fnl | wc -l)"
+nvim test.fnl
+mkdir -vp ~/projects/fennel/mwStateBasedHealth
+mv test.fnl ~/projects/fennel/mwStateBasedHealth
+~/projects/fennel/mwStateBasedHealth
+mkdir src
+mv test.fnl ./src/player.fnl
+nvim ./src/player.fnl
+touch ./src/settings.fnl
+nvim ./src/settings.fnl
+fnlfmt --fix ./src/settings.fnl
+nvim ./src/settings.fnl
+fennel ./src/settings.fnl
+fennel --help
+fennel --compile ./src/settings.fnl
+fennel ./src/settings.fnl
+nvim ./src/settings.fnl
+fennel --compile ./src/settings.fnl
+fennel --compile ./src/settings.fnl >> test.lua
+nvim test.lua
+fennel --compile ./src/settings.fnl
+nvim ./src/settings.fnl
+fennel --compile ./src/settings.fnl
+nvim ./src/settings.fnl
+fnlfmt --fix ./src/settings.fnl
+nvim ./src/settings.fnl
+touch ./src/init.fnl
+nvim ./src/init.fnl
+fnlfmt --fix ./src/init.fnl
+nvim ./src/init.fnl
+nvim ./src/init.fnl
+nvim ./src/init.fnl
+fennel --compile ./src/init.fnl
+nvim ./src/settings.fnl 
+nvim ./src/player.fnl
+fnlfmt --fix ./src/player.fnl
+nvim ./src/player.fnl
+nvim ./src/player.fnl
+fnlfmt --fix ./src/player.fnl
+nvim ./src/player.fnl
+fennel --compile ./src/player.fnl
+nvim ./src/player.fnl
+fennel --compile ./src/player.fnl
+fennel --compile ./src/player.fnl
+nvim ./src/player.fnl
+cd ..
+mkdir light-tweaks
+cd light-tweaks
+mkdir src/
+touch src/lights-tweaks.fnl
+nvim src/lights-tweaks.fnl
+touch test.glsl
+nvim test.glsl
+nvim test.glsl
+nvim test.glsl
+nvim test.glsl
+python
+python3
+sudo apt install python3.10-venv
+nvim test.glsl
+touch test.lua
+touch notes.md
+nvim notes.md
+ls
+cd projects/fennel
+ls
+nvim light-tweaks
+fennel -c ./light-tweaks/src/lights-tweaks.fnl
+nvim light-tweaks
+fennel -c ./light-tweaks/src/lights-tweaks.fnl
+nvim light-tweaks
+fennel -c ./light-tweaks/src/lights-tweaks.fnl
+nvim light-tweaks
+fennel -c ./light-tweaks/src/lights-tweaks.fnl
+nvim light-tweaks
+fennel -c ./light-tweaks/src/lights-tweaks.fnl
+nvim light-tweaks
+fennel -c ./light-tweaks/src/lights-tweaks.fnl
+nvim light-tweaks
+nvim light-tweaks
+nvim light-tweaks
+fennel -c ./light-tweaks/src/lights-tweaks.fnl
+nvim light-tweaks
+fennel -c ./light-tweaks/src/lights-tweaks.fnl
+nvim light-tweaks
+nvim light-tweaks
+nvim light-tweaks
+nvim light-tweaks
+fennel -c ./light-tweaks/src/lights-tweaks.fnl
+nvim light-tweaks
+fennel -c ./light-tweaks/src/lights-tweaks.fnl
+clear
+clear
+clear
+fennel -c ./light-tweaks/src/lights-tweaks.fnl
+clear
+fennel -c ./light-tweaks/src/lights-tweaks.fnl
+clear
+nvim light-tweaks
+clear
+fennel -c ./light-tweaks/src/lights-tweaks.fnl
+nvim light-tweaks
+nvim light-tweaks
+nvim light-tweaks
+fennel -c ./light-tweaks/src/lights-tweaks.fnl
+nvim light-tweaks
+fennel -c ./light-tweaks/src/lights-tweaks.fnl
+nvim light-tweaks
+fennel -c ./light-tweaks/src/lights-tweaks.fnl
+nvim light-tweaks
+nvim ~/.config/nvim/lua/tau/masonry/plugins/other.lua
+touch test.lisp
+nvim test.lisp
+nvim ~/.config/nvim/lua/tau/masonry/plugins/other.lua
+touch test.hy
+nvim test.hy
+rm test.*
+nvim light-tweaks/src/lights-tweaks.fnl
+nvim light-tweaks/src/lights-tweaks.fnl
+nvim ~/.config/nvim/lua/tau/masonry/plugins/other.lua
+nvim ~/.config/nvim/lua/tau/masonry/plugins/other.lua
+nvim ~/.config/nvim/lua/tau/masonry/plugins/lsp.lua
+nvim ~/.config/nvim/lua/tau/masonry/plugins/other.lua
+nvim ~/.config/nvim/lua/tau/masonry/init.lua
+nvim ~/.config/nvim/lua/tau/masonry/plugins/lsp.lua
+nvim light-tweaks/src/lights-tweaks.fnl
+nvim light-tweaks/src/lights-tweaks.fnl
+nvim ~/.config/nvim/lua/tau/keymap.lua
+nvim ~/.config/nvim/lua/tau/options.lua
+nvim ~/.config/nvim/init.lua
+nvim light-tweaks/src/lights-tweaks.fnl
+nvim ~/.config/nvim/init.lua
+nvim light-tweaks/src/lights-tweaks.fnl
+nvim light-tweaks/src/lights-tweaks.fnl
+nvim ~/.config/nvim/init.lua
+nvim light-tweaks/src/lights-tweaks.fnl
+nvim ~/.config/nvim/init.lua
+nvim light-tweaks/src/lights-tweaks.fnl
+nvim ~/.config/nvim/init.lua
+nvim light-tweaks/src/lights-tweaks.fnl
+nvim ~/.config/nvim/init.lua
+nvim light-tweaks/src/lights-tweaks.fnl
+nvim light-tweaks/src/lights-tweaks.fnl
+nvim ~/.config/nvim/lua/tau/options.lua
+nvim ~/.config/nvim/lua/tau/masonry/plugins/other.lua
+nvim ~/.config/nvim/lua/tau/masonry/plugins/other.lua
+nvim ~/.config/nvim/lua/tau/masonry/plugins/other.lua
+nvim ~/.config/nvim/lua/tau/masonry/plugins/other.lua
+touch test.js
+nvim test.js
+rm test.js
+touch test.lua
+nvim test.lua
+nvim test.lua
+nvim light-tweaks/src/lights-tweaks.fnl
+nvim light-tweaks/src/lights-tweaks.fnl
+nvim ~/.config/nvim/lua/tau/masonry/plugins/other.lua
+nvim ~/.config/nvim/lua/tau/masonry/plugins/other.lua
+nvim light-tweaks/src/lights-tweaks.fnl
+nvim ~/.config/nvim/lua/tau/masonry/plugins/other.lua
+cd ~/.config/nvim/
+cat .stylua.toml
+nvim lua/tau/masonry/plugins/other.lua
+nvim lua/tau/masonry/plugins/lsp.lua
+nvim lua/tau/masonry/plugins/git.lua
+nvim lua/tau/masonry/plugins/theme.lua
+nvim lua/tau/masonry/plugins/other.lua
+nvim lua/tau/masonry/plugins/lsp.lua
+nvim lua/tau/masonry/plugins/git.lua
+nvim lua/tau/masonry/init.lua
+nvim lua/tau/keymap.lua
+nvim lua/tau/options.lua
+nvim lua/tau/keymap.lua
+nvim lua/tau/options.lua
+nvim lua/tau/theme/highlights.lua
+nvim init.lua
+nvim lua/tau/masonry/plugins
+nvim lua/tau/masonry/plugins/other.lua
+nvim lua/tau/masonry/plugins/other.lua
+touch woah.fnl
+nvim woah.fnl
+nvim woah.fnl
+nvim woah.fnl
+cd ..
+cd ~
+cd projects/fennel
+mkdir actors
+nvim actors/
+mkdir actors/src/
+touch actors/src/utils.fnl
+nvim actors/src/utils.fnl
+cd actors
+touch src/actor-mngr.fnl
+nvim src/actor-mngr.fnl
+cd ~/
+ls
+ls -a
+mkdir school
+mkdir school/web
+mkdir school/web/learning_materials
+cd school/web/learning_materials
+ls
+mv /mnt/c/Users/Johannes/Downloads/session_15_challenge_code_starter.zip ./
+unzip session_15_challenge_code_starter.zip
+ls
+rm -rf __MACOSX
+rm *.zip
+cd session_15_challenge_code_starter
+ls
+nvim assets/js_starter/scripts_challenge_2.js
+nvim ~/.config/nvim/lua/tau/masonry/init.lua
+nvim assets/js_starter/scripts_challenge_2.js
+nvim ~/.config/nvim/lua/tau/masonry/init.lua
+nvim assets/js_starter/scripts_challenge_2.js
+nvim ~/.config/nvim/lua/tau/masonry/init.lua
+nvim assets/js_starter/scripts_challenge_2.js
+nvim ~/.config/nvim/lua/tau/masonry/init.lua
+nvim assets/js_starter/scripts_challenge_2.js
+nvim ~/.config/nvim/lua/tau/masonry/init.lua
+ls
+nvim assets/js_starter/scripts_challenge_3_4_5.js
+nvim assets/js_starter/scripts_challenge_3_4_5.js
+nvim index.html
+nvim index.html
+nvm
+curl -fsSL https://get.pnpm.io/install.sh | sh -
+cat ~/.zshrc
+cat ~/.zshrc > ~/.config/zsh/.zshrc
+cat ~/.config/zsh/.zshrc
+ls ~/.local/share/chezmoi/private_dot_config/
+rm ~/.zshrc
+nvim assets/js_starter/scripts_challenge_3_4_5.js
+source ~/.config/zsh/.zshrc
+live-server
+live-server &
+jobs
+jobs --help
+jobs --h
+jobs -h
+jobs
+top
+htop
+jobs
+live-server >> /dev/null &
+nvim ./assets/js_starter/scalability.js
+nvim ./assets/js_starter/scalability.js
+nvim ~/.config/nvim/lua/tau/plugins.lua
+nvim ~/.config/nvim/lua/tau/masonry/plugins/lsp.lua
+nvim ~/.config/nvim/lua/tau/masonry/init.lua
+nvim ~/.config/nvim/lua/tau/masonry/init.lua
+nvim ./assets/js_starter/scalability.js
+nvim ./assets/js_starter/scalability.js
+clear
+nvim ./assets/js_starter/scalability.js
+nvim ./assets/js_starter/scalability.js
+nvim ./assets/js_starter/scalability.js
+find 13
+find . 13
+cd ~
+find . 13
+find . session
+find . session_13
+ls -a

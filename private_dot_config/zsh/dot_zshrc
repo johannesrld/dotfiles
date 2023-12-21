@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # vim: ft=sh
 # Lines configured by zsh-newuser-install
 HISTFILE=~/.local/share/zsh/histfile
@@ -27,6 +28,8 @@ function sd() {
         cd "$selected_dir"
     fi
 }
+=======
+>>>>>>> 77adb4b (update)
 # pnpm
 export PNPM_HOME="/home/jrld/.local/share/pnpm"
 case ":$PATH:" in
@@ -40,6 +43,7 @@ eval "$(starship init zsh)"
 source ~/.local/share/zsh/plugins/zsh-autosuggestions/zsh-autosuggestions.zsh
 source ~/.local/share/zsh/plugins/zsh_highlight/F-Sy-H.plugin.zsh
 export PATH=$PATH:/usr/local/go/bin
+<<<<<<< HEAD
 
 autoload -Uz compinit
 compinit
@@ -49,3 +53,5 @@ alias e=$EDITOR
 alias md=mdkir -pv
 alias tsync="sudo ntpupdate time.windows.com"
 # End of lines added by compinstall
+=======
+>>>>>>> 77adb4b (update)
