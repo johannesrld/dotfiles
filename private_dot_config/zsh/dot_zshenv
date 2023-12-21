@@ -1,0 +1,2 @@
+XDG_CONFIG_HOME=$HOME/.config
+PATH=~/.local/bin/:$PATH
