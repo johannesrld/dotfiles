@@ -1,19 +1,17 @@
-<<<<<<< HEAD
 # vim: ft=sh
 # Lines configured by zsh-newuser-install
+eval "$(starship init zsh)"
 HISTFILE=~/.local/share/zsh/histfile
 HISTSIZE=5000
 SAVEHIST=5000
 setopt autocd extendedglob nomatch notify
 unsetopt beep
 bindkey -e
-# End of lines configured by zsh-newuser-install
-# The following lines were added by compinstall
 zstyle :compinstall filename '/home/jrld/.config/zsh/.zshrc'
 
 export FZF_DEFAULT_OPTS="--color=fg:#e4e4ef,hl:#5f627f --color=fg+:#f4f4ff,bg+:#262626,hl+:#96a6c8 --color=info:#cc8c3c,prompt:#ffdd33,pointer:#73c936 --color=marker:#87ff00,spinner:#73c936,header:#95a99f"
 
-fd_args=(--exclude .git --exclude .mypy_cache --exclude .var --exclude .vscode --exclude .pki --exclude OSX-KVM --exclude '*.pyc' --exclude node_modules --exclude $XDG_CACHE_HOME --exclude cache --exclude .cache --exclude venv --exclude .venv --exclude $HOME/.local/share/cargo --exclude $HOME/.vscode/ --exclude $HOME/.config/Code/ --exclude $HOME/OSX-KVM/ --exclude $HOME/.var/ )
+fd_args=(--exclude .git --exclude .mypy_cache --exclude .var --exclude .vscode --exclude .pki --exclude OSX-KVM --exclude '*.pyc' --exclude node_modules --exclude "$XDG_CACHE_HOME" --exclude cache --exclude .cache --exclude venv --exclude .venv --exclude "$HOME/.local/share/cargo" --exclude "$HOME/.vscode/" --exclude "$HOME/.config/Code/" --exclude "$HOME/OSX-KVM/" --exclude "$HOME/.var/" )
 function s() {
     local selected_item
     selected_item=$(fd --type f --hidden --follow "${fd_args[@]}"| fzf --height 40% --border="top" --reverse --prompt="files> ")
@@ -23,35 +21,33 @@ function s() {
 }
 function sd() {
     local selected_dir
-    selected_dir=$(fd "${fd_args[@]}" --type directory --hidden --follow . $HOME | fzf --height 40% --border="top" --reverse --prompt="dirs> ")
+    selected_dir=$(fd "${fd_args[@]}" --type directory --hidden --follow . "$HOME" | fzf --height 40% --border="top" --reverse --prompt="dirs> ")
     if [[ -n "$selected_dir" ]]; then
-        cd "$selected_dir"
+        cd "$selected_dir" || return
     fi
 }
-=======
->>>>>>> 77adb4b (update)
-# pnpm
 export PNPM_HOME="/home/jrld/.local/share/pnpm"
 case ":$PATH:" in
   *":$PNPM_HOME:"*) ;;
   *) export PATH="$PNPM_HOME:$PATH" ;;
 esac
-# pnpm end
-export NVM_DIR="$([ -z "${XDG_CONFIG_HOME-}" ] && printf %s "${HOME}/.nvm" || printf %s "${XDG_CONFIG_HOME}/nvm")"
+NVM_DIR="$([ -z "${XDG_CONFIG_HOME-}" ] && printf %s "${HOME}/.nvm" || printf %s "${XDG_CONFIG_HOME}/nvm")"
+export NVM_DIR
 [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh" # This loads nvm
-eval "$(starship init zsh)"
+
+# shellcheck source=/dev/null
 source ~/.local/share/zsh/plugins/zsh-autosuggestions/zsh-autosuggestions.zsh
+# shellcheck source=/dev/null
 source ~/.local/share/zsh/plugins/zsh_highlight/F-Sy-H.plugin.zsh
 export PATH=$PATH:/usr/local/go/bin
-<<<<<<< HEAD
-
 autoload -Uz compinit
 compinit
 
 alias c=clear
-alias e=$EDITOR
+alias e='$EDITOR'
 alias md=mdkir -pv
 alias tsync="sudo ntpupdate time.windows.com"
 # End of lines added by compinstall
-=======
->>>>>>> 77adb4b (update)
+export PATH="$DPRINT_INSTALL/bin:$PATH"
+#eval $(opam env)
+[ -f "/home/jrld/.ghcup/env" ] && source "/home/jrld/.ghcup/env" # ghcup-env
