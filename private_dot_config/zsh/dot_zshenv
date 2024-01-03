@@ -1,3 +1,4 @@
 XDG_CONFIG_HOME=$HOME/.config
 DPRINT_INSTALL="/home/jrld/.dprint"
+EDITOR=nvim
 PATH=~/.local/bin/:$PATH
