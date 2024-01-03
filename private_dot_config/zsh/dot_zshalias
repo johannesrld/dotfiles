@@ -1,7 +1,7 @@
 alias c=clear
 alias e='$EDITOR'
 alias md=mdkir -pv
-alias tsync="sudo ntpupdate time.windows.com"
+alias tsync="sudo ntpdate time.windows.com"
 alias gs="git status"
 alias gc="git commit"
 alias gaa="git add ."
