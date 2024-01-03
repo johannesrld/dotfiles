@@ -2,6 +2,7 @@
 alias c=clear
 alias e='$EDITOR'
 alias md=mdkir -pv
+alias ll="exa --long --no-user --no-time --no-filesize -@ --group-directories-first"
 
 # WSL is a naughty boy when it comes to keeping time, so i have to run this periodically
 alias tsync="sudo ntpdate time.windows.com"
@@ -10,5 +11,6 @@ alias tsync="sudo ntpdate time.windows.com"
 alias gs="git status"
 alias gc="git commit"
 alias gaa="git add ."
-alias dotcm="git add . && git commit"
 alias gp="git push"
+alias gaac="git add . && git commit"
+alias gll="exa --header --long --no-user --no-time --no-filesize --git --git-ignore -@ --group-directories-first"

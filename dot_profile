@@ -18,24 +18,14 @@ export CABAL_DIR="$XDG_DATA_HOME"/cabal
 export GHCUP_USE_XDG_DIRS=true
 export STACK_XDG=1
 
-export BUNDLE_USER_CONFIG="$XDG_CONFIG_HOME"/bundle
-export BUNDLE_USER_CACHE="$XDG_CACHE_HOME"/bundle
-export BUNDLE_USER_PLUGIN="$XDG_DATA_HOME"/bundle
-export SOLARGRAPH_CACHE="$XDG_CACHE_HOME"/solargraph 
-export IRBRC="$XDG_CONFIG_HOME"/irb/irbrc
 
 export RUSTUP_HOME="$XDG_DATA_HOME"/rustup
 export CARGO_HOME="$XDG_DATA_HOME"/cargo
 
 export NPM_CONFIG_USERCONFIG="$XDG_CONFIG_HOME"/npm/npmrc 
 
-export DOTNET_CLI_HOME="$XDG_CONFIG_HOME"/dotnet
-export NUGET_PACKAGES="$XDG_CACHE_HOME"/NuGetPackages
-
 export PYTHONPYCACHEPREFIX=$XDG_CACHE_HOME/python
 export PYTHONUSERBASE=$XDG_DATA_HOME/python
-export DPRINT_INSTALL="$HOME/.local/bin/dprint"
-export PATH="$DPRINT_INSTALL/bin:$PATH"
 export PATH="$XDG_DATA_HOME/npm/bin:$PATH"
 
 alias wget="wget --hsts-file='$XDG_DATA_HOME/wget-hsts'"
