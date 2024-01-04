@@ -16,5 +16,3 @@ alias e="nvim"
 alias ls="ls -C -A -h --group-directories-first --color=auto"
 alias md='mkdir -pv'
 alias tsync="sudo ntpdate time.windows.com"
-. "/home/jrld/.local/share/cargo/env"
-. "$HOME/.cargo/env"
