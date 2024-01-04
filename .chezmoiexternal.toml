@@ -17,3 +17,11 @@ refreshPeriod = "672h"
 [".config/nvim"]
 type = "git-repo"
 url = "https://github.com/johannesrld/nvim"
+
+[".local/share/zsh/plugins/zsh-autosuggestions"]
+type = "git-repo"
+url = "https://github.com/zsh-users/zsh-autosuggestions"
+
+[".local/share/zsh/plugins/zsh_highlight"]
+type = "git-repo"
+url = "https://github.com/z-shell/F-Sy-H"
