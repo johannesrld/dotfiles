@@ -33,4 +33,3 @@ if [ -f "$XDG_DATA_HOME/cargo/env" ];
 then
     source "$XDG_DATA_HOME"/cargo/env
 fi
-. "$HOME/.cargo/env"
