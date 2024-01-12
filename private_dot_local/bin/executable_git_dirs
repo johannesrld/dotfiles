@@ -14,4 +14,4 @@ current_dir = Path().cwd()
 
 git_dirs = find_git_dir(current_dir)
 for git_dir in git_dirs:
-    print(f"found git dir: {git_dir.resolve()}")
+    print(git_dir.resolve())

@@ -25,6 +25,8 @@ export NVM_DIR
 source ~/.local/share/zsh/plugins/zsh-autosuggestions/zsh-autosuggestions.zsh
 # shellcheck source=/dev/null
 source ~/.local/share/zsh/plugins/zsh_highlight/F-Sy-H.plugin.zsh
+# shellcheck source=/dev/null
+source ~/.local/share/zsh/plugins/zsh-autopair/autopair.zsh
 export PATH=$PATH:/usr/local/go/bin
 autoload -Uz compinit
 compinit

@@ -1,4 +1,4 @@
-# vim:ft=sh
+# vim: ft=sh
 
 #====XDG Vars==========================================================================
 export XDG_CONFIG_HOME=$HOME/.config
@@ -31,6 +31,7 @@ export STACK_XDG=1
 
 #====Javascript========================================================================
 export NPM_CONFIG_USERCONFIG="$XDG_CONFIG_HOME"/npm/npmrc 
+export BUN_INSTALL="$XDG_DATA_HOME/bun"
 #======================================================================================
 
 #====Python============================================================================
@@ -39,4 +40,4 @@ export PYTHONUSERBASE=$XDG_DATA_HOME/python
 #======================================================================================
 
 
-export PATH="$HOME/.local/bin/":"$XDG_DATA_HOME/npm/bin":$PATH
+export PATH="$BUN_INSTALL/bin":"$XDG_DATA_HOME/cargo/bin":"$HOME/.local/bin/":"$XDG_DATA_HOME/npm/bin":$PATH

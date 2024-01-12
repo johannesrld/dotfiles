@@ -1,10 +1,11 @@
+# vim: ft=sh
 # General QOL aliases
 alias c=clear
 alias e='$EDITOR'
-alias md=mdkir -pv
-alias ll="exa --long --no-user --no-time --no-filesize -@ --group-directories-first"
+alias md="mkdir -pv"
+alias ll="exa -a --long --no-user --no-time --no-filesize -@ --group-directories-first"
 
-# WSL is a naughty boy when it comes to keeping time, so i have to run this periodically
+# WSL is a naughty boy when it comes to keeping time, so I have to run this periodically
 alias tsync="sudo ntpdate time.windows.com"
 
 # Git aliases
